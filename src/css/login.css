@@ -1,0 +1,83 @@
+.title {
+  color: blueviolet;
+}
+
+.main_div {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.sub_div {
+  margin-top: 12%;
+  margin-left: 5%;
+}
+
+.form_div {
+  margin: auto;
+  margin-top: 10%;
+  width: 30%;
+  text-align: center;
+  background-color: white;
+  border: 1px solid silver;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px lightgrey;
+}
+
+.center_div {
+  align-items: center;
+}
+
+.email_txt {
+  margin-top: 20px;
+  margin-bottom: 5px;
+  width: 85%;
+  height: 50px;
+  border: 1px solid silver;
+  border-radius: 5px;
+  padding-left: 20px;
+}
+
+.pass_txt {
+  margin-top: 5px;
+  margin-bottom: 10px;
+  width: 85%;
+  height: 50px;
+  border: 1px solid silver;
+  border-radius: 5px;
+  padding-left: 20px;
+}
+
+.sub_txt {
+  margin-top: 5px;
+}
+
+.signin_btn2 {
+  margin-top: 5px;
+  margin-bottom: 10px;
+  width: 85%;
+  height: 50px;
+  border-radius: 10px;
+  border: 1px solid blueviolet !important;
+  background-color: blueviolet !important;
+}
+
+.signup_btn2 {
+  margin-bottom: 20px;
+  width: 65%;
+  height: 50px;
+  border-radius: 10px;
+}
+
+.line {
+  width: 95%;
+  margin-left: 2.5%;
+}
+
+.forgot_pw_div
+{
+  text-align:right;
+  margin-top:10px;
+  margin-bottom:20px;
+  margin-right:40px;
+}

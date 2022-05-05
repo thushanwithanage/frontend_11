@@ -1,0 +1,138 @@
+.main_div {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.sub_div {
+  margin: auto;
+  width: 40%;
+  text-align: center;
+  border: 1px solid silver;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px lightgrey;
+}
+
+.title {
+  margin-top: 20px;
+  color: blueviolet;
+  font-family: Georgia;
+}
+
+.logout_btn {
+  text-align: right;
+  margin: 10px;
+}
+
+.top_txt {
+  margin-top: 20px;
+  margin-bottom: 5px;
+  width: 85%;
+  height: 50px;
+  border: 1px solid silver;
+  border-radius: 5px;
+  padding-left: 20px;
+}
+
+.middle_txt {
+  margin-top: 5px;
+  margin-bottom: 10px;
+  width: 85%;
+  height: 50px;
+  border: 1px solid silver;
+  border-radius: 5px;
+  padding-left: 20px;
+}
+
+.list {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width: 85%;
+  height: 50px;
+  border: 1px solid silver;
+  border-radius: 5px;
+  padding-left: 20px;
+}
+
+.save_btn {
+  margin-top: 15px;
+  margin-bottom: 10px;
+  width: 85%;
+  height: 50px;
+  border-radius: 10px;
+  border: 1px solid silver;
+}
+
+.search_txt {
+  margin-top: 15px;
+  margin-bottom: 10px;
+  width: 65%;
+  height: 50px;
+  border: 1px solid silver;
+  border-radius: 5px;
+  padding-left: 20px;
+  margin-right: 5%;
+}
+
+.search_btn {
+  margin-top: 5px;
+  margin-bottom: 10px;
+  width: 15%;
+  height: 45px;
+  border-radius: 10px;
+  border: 1px solid silver;
+  font-family: w3-monospace;
+  padding: 5px
+}
+
+.box_div {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.sub_div_2 {
+  margin: auto;
+  margin-top: 2%;
+  width: 60%;
+}
+
+.sub_div_3 {
+  margin: auto;
+  margin-top: 2%;
+  width: 30%;
+}
+
+.cat_picture {
+  border-radius: 10px;
+  height: 200;
+}
+
+.update_btn {
+  margin-top: 15px;
+  margin-bottom: 10px;
+  width: 40%;
+  height: 50px;
+  border-radius: 10px;
+  border: 1px solid silver;
+  margin-right: 10%;
+  color: white;
+}
+
+.delete_btn {
+  margin-top: 15px;
+  margin-bottom: 10px;
+  width: 40%;
+  height: 50px;
+  border-radius: 10px;
+  border: 1px solid silver;
+}
+
+.container_div {
+  margin-top: 50px;
+}
+
+.row_div {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
